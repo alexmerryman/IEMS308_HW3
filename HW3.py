@@ -120,7 +120,7 @@ for f in glob.glob("*.txt"):
         pct_token_list = []
         pct_backtrack_list = []
 
-        pct_stop_pattern = ['percent', 'percentage', 'percentile']
+        pct_stop_pattern = ['percent', 'percentage', 'percentile', '%']
 
 
         # CEOs
